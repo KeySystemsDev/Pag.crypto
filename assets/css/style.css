@@ -7,3 +7,14 @@ body {
         margin: -48px 50px 0px 0px;
     }
 }
+
+img.alineadoTextoImagenArriba{
+  vertical-align: text-top;  
+}
+img.alineadoTextoImagenCentro{
+  vertical-align: middle;
+  /* Ojo vertical-align: text-middle no existe*/
+}
+img.alineadoTextoImagenAbajo{
+  vertical-align: text-bottom;  
+}
