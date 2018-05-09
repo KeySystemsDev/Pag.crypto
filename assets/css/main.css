@@ -2099,6 +2099,12 @@
 			padding-top: 0;
 		}
 
+/*texto centrado*/
+
+	p.txtcentrado {
+		text-align:center;
+	}
+
 /* Header */
 
 	#header {
