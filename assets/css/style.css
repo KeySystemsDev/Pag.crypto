@@ -8,9 +8,11 @@ body {
     }
 }
 
-borde
+@media screen and (max-width: 1680px){
+.borde
 {
-    border-style: solid;
-    border-color: black;
-	border-width: thin;
+   border: 2px solid #ddd;
+    margin-right: 15px;
+}
+
 }
