@@ -8,26 +8,11 @@ body {
     }
 }
 
-@media screen and (max-width: 1680px){
-.borde
-{
-   border: 2px solid #ddd;
-    margin-right: 15px;
-}
-
-}
 .qr-borde{
-    border:2px solid #ddd;
+    border:2px solid #999999;
     padding-top: 20px;
     padding-bottom: 20px;.resposive-img{
 }
 .res-img{
     max-width: 100%;
 }
-
-.imagen {
-			display: inline;
-			width: 50%;
-			margin: 0 0 4em 0;
-		}
-   
