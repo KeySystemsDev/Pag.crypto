@@ -17,11 +17,17 @@ body {
 
 }
 .qr-borde{
-    border:1px solid #ddd;
+    border:2px solid #ddd;
     padding-top: 20px;
     padding-bottom: 20px;.resposive-img{
 }
 .res-img{
     max-width: 100%;
 }
+
+.imagen {
+			display: inline;
+			width: 50%;
+			margin: 0 0 4em 0;
+		}
    

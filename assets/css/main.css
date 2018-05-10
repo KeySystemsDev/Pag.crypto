@@ -2101,7 +2101,7 @@
 
 /*texto centrado*/
 
-	p.txtcentrado {
+	.txtcentrado {
 		text-align:center;
 	}
 
