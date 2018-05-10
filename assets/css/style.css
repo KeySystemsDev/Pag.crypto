@@ -2,6 +2,10 @@ body {
     overflow-x: hidden;
 }
 
+.res-img{
+    max-width: 100%;
+}
+
 @media screen and (max-width: 1680px){
     .row {
         margin: -48px 50px 0px 0px;
@@ -11,8 +15,5 @@ body {
 .qr-borde{
     border:2px solid #999999;
     padding-top: 20px;
-    padding-bottom: 20px;.resposive-img{
-}
-.res-img{
-    max-width: 100%;
+    padding-bottom: 20px;{
 }
